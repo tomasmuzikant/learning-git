@@ -1,0 +1,1 @@
+console.log("Naše nová aplikace")
